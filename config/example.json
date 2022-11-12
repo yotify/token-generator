@@ -1,0 +1,10 @@
+{
+  "cookieSecret": "supersecret123",
+  "api": {
+    "spotify": {
+        "clientId": "XXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+        "clientSecret": "XXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+        "redirectUri": "http://localhost:8888/spotify/callback"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+node_modules
+out
+package.tar
+config/production.json
+config/development.json
+.vscode
